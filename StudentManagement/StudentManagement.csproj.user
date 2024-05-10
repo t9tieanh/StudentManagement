@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePassWordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClassTeacherFromUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClassUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ComfirmEmailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DentailSubjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DentailTeacherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DentailTeacherForTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DentailUserForUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetailTeacherForUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GroupListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfomationClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainFormTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainFormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagementStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUpAdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUpUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaticStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Control\UC_Account.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Control\UC_Class.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Control\UC_ClassForUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Control\UC_Group.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Control\UC_Subject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Control\UC_Teacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Control\UC_TeacherForUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AddStudentForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.LoginForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SearchStudentForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SignUpForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StudentListForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.UpdateStudentForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache

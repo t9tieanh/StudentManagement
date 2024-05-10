@@ -1,0 +1,63 @@
+C:\Users\LENOVO\Downloads\Test\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\LENOVO\Downloads\Test\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\LENOVO\Downloads\Test\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\LENOVO\Downloads\Test\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\LENOVO\Downloads\Test\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\bin\Debug\net6.0\DAL.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\bin\Debug\net6.0\DTO.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\obj\Debug\net6.0\DAL.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\bin\Debug\net6.0\DAL.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\bin\Debug\net6.0\DTO.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\DAL.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Learn\Lập trình trên Win\projectCaNhan\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+C:\Users\LENOVO\Downloads\Test\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Learn\Test\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Learn\Test\DAL\bin\Debug\net6.0\DAL.dll
+C:\Learn\Test\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Learn\Test\DAL\bin\Debug\net6.0\DTO.dll
+C:\Learn\Test\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Learn\Test\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Learn\Test\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Test\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Learn\Test\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Learn\Test\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Learn\Test\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Learn\Test\DAL\obj\Debug\net6.0\DAL.csproj.Up2Date
+C:\Learn\Test\DAL\obj\Debug\net6.0\DAL.dll
+C:\Learn\Test\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Learn\Test\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Learn\Test\DAL\obj\Debug\net6.0\ref\DAL.dll

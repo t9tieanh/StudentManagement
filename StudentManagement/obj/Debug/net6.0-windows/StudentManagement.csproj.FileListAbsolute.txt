@@ -1,0 +1,376 @@
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.exe
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.deps.json
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.runtimeconfig.json
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.pdb
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\System.Management.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.GenerateResource.cache
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CopyComplete
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\refint\StudentManagement.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.pdb
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\ref\StudentManagement.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.Properties.Resources.resources
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Learn\Lập trình trên Win\STUDENT MANAGEMENT PROJECT\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.LoginForm.resources
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.exe
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.deps.json
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.runtimeconfig.json
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.dll
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.pdb
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.LoginForm.resources
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.dll
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\refint\StudentManagement.dll
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.pdb
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\ref\StudentManagement.dll
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AddStudentForm.resources
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainForm.resources
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StudentListForm.resources
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.UpdateStudentForm.resources
+C:\Users\LENOVO\Downloads\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SearchStudentForm.resources
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.exe
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.deps.json
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.runtimeconfig.json
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.pdb
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\System.Management.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AddStudentForm.resources
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.LoginForm.resources
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainForm.resources
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.Properties.Resources.resources
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SearchStudentForm.resources
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StudentListForm.resources
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.UpdateStudentForm.resources
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.GenerateResource.cache
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CopyComplete
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.dll
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\refint\StudentManagement.dll
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.pdb
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\ref\StudentManagement.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\ErrorChecking.dll
+C:\Learn\Lập trình trên Win\StudentManagement\bin\Debug\net6.0-windows\ErrorChecking.pdb
+C:\Learn\Lập trình trên Win\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SignUpForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.exe
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.deps.json
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.pdb
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\BUL.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\ErrorChecking.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\BUL.pdb
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\ErrorChecking.pdb
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AddStudentForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.LoginForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SearchStudentForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StudentListForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.UpdateStudentForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\refint\StudentManagement.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.pdb
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\ref\StudentManagement.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.exe
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.deps.json
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.runtimeconfig.json
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\System.Management.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\BUL.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\DAL.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\DTO.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\ErrorChecking.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\BUL.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\DTO.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\ErrorChecking.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\bin\Debug\net6.0-windows\DAL.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AddStudentForm.resources
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.LoginForm.resources
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainForm.resources
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.Properties.Resources.resources
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SearchStudentForm.resources
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SignUpForm.resources
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StudentListForm.resources
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.UpdateStudentForm.resources
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.GenerateResource.cache
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CopyComplete
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\refint\StudentManagement.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\ref\StudentManagement.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ComfirmEmailForm.resources
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ChangePassWordForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.exe
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.deps.json
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.runtimeconfig.json
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\System.Management.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\BUL.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\DAL.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\DTO.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\ErrorChecking.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\BUL.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\DTO.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\ErrorChecking.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\DAL.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AddStudentForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ChangePassWordForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ComfirmEmailForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.LoginForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.Properties.Resources.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SearchStudentForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SignUpForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StudentListForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.UpdateStudentForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.GenerateResource.cache
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\refint\StudentManagement.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\ref\StudentManagement.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ClassManagementForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Class.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Subject.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.Account.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.DentailSubjectForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Teacher.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.DentailTeacherForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.sourcelink.json
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentM.FBDC7194.Up2Date
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Account.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ManagementStudentForm.resources
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StaticStudentForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ChangePassWordForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ComfirmEmailForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.DentailSubjectForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.DentailTeacherForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ManagementStudentForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StaticStudentForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.Account.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Account.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Class.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Subject.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Teacher.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentM.FBDC7194.Up2Date
+C:\Users\LENOVO\Downloads\Test\StudentManagement\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.sourcelink.json
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AddClassForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ClassUpdateForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.InfomationClassForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.PrintStudentForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.PrintClassForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainFormTeacher.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StudentClassForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SignUpAdminForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SignUpUserForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainFormUser.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GroupListForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Group.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_TeacherForUser.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.DetailTeacherForUser.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ClassTeacherFromUserForm.resources
+C:\Users\LENOVO\Downloads\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_ClassForUser.resources
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.exe
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.deps.json
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.runtimeconfig.json
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.pdb
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\System.Management.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\BUL.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\DAL.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\DTO.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\ErrorChecking.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\BUL.pdb
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\DTO.pdb
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\ErrorChecking.pdb
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\DAL.pdb
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AddClassForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AddStudentForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ChangePassWordForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ClassTeacherFromUserForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ClassUpdateForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ComfirmEmailForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.DentailSubjectForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.DentailTeacherForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.DetailTeacherForUser.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GroupListForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.InfomationClassForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.LoginForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainFormTeacher.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.MainFormUser.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.ManagementStudentForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.PrintClassForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.PrintStudentForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.Properties.Resources.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SearchStudentForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SignUpAdminForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.SignUpUserForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StaticStudentForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StudentClassForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.StudentListForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.UpdateStudentForm.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Account.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Class.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_ClassForUser.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Group.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Subject.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_Teacher.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.User_Control.UC_TeacherForUser.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.GenerateResource.cache
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.sourcelink.json
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentM.FBDC7194.Up2Date
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.dll
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\refint\StudentManagement.dll
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.pdb
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\ref\StudentManagement.dll
+C:\Learn\Test\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.dll.config
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.DentailTeacherForTeacher.resources
+C:\Learn\Test\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.DentailUserForUser.resources

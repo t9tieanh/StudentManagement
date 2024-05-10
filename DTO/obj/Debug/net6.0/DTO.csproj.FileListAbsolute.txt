@@ -1,0 +1,47 @@
+C:\Users\LENOVO\Downloads\Test\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\LENOVO\Downloads\Test\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\LENOVO\Downloads\Test\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\LENOVO\Downloads\Test\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Test\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Test\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Test\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Test\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\LENOVO\Downloads\Test\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\LENOVO\Downloads\Test\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\LENOVO\Downloads\Test\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\bin\Debug\net6.0\DTO.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\obj\Debug\net6.0\DTO.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Learn\Lập trình trên Win\Pj Cá Nhân (Mô hình 3 lớp)\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\bin\Debug\net6.0\DTO.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\obj\Debug\net6.0\DTO.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Learn\Lập trình trên Win\projectCaNhan\DTO\obj\Debug\net6.0\DTO.sourcelink.json
+C:\Users\LENOVO\Downloads\Test\DTO\obj\Debug\net6.0\DTO.sourcelink.json
+C:\Learn\Test\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Learn\Test\DTO\bin\Debug\net6.0\DTO.dll
+C:\Learn\Test\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Learn\Test\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Test\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Learn\Test\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Learn\Test\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Learn\Test\DTO\obj\Debug\net6.0\DTO.sourcelink.json
+C:\Learn\Test\DTO\obj\Debug\net6.0\DTO.dll
+C:\Learn\Test\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Learn\Test\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Learn\Test\DTO\obj\Debug\net6.0\ref\DTO.dll
